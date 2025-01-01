@@ -1,17 +1,1 @@
-[33mcommit 424251ca66dec8facb006a7df0ef186a4730b415[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
-Author: Mirza Farzan Baig <mirzafarzanbaig@gmail.com>
-Date:   Sat Dec 28 23:38:29 2024 +0700
 
-    Chapter 3 do
-
-[33mcommit 8d604a3f4b67adceeee42ef59fe7a4fd65ec7902[m
-Author: Mirza Farzan Baig <mirzafarzanbaig@gmail.com>
-Date:   Sat Dec 28 23:38:12 2024 +0700
-
-    Chapter 2 finish
-
-[33mcommit 943f377a223e23f6607c2a8cf282179846d547b7[m
-Author: Mirza Farzan Baig <mirzafarzanbaig@gmail.com>
-Date:   Sat Dec 28 23:31:31 2024 +0700
-
-    Chapter 1 Complete
